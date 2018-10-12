@@ -1,0 +1,2 @@
+# ticket-vending-service
+Online ticket booking services for entertainments such as movies, plays, concerts, etc., have increased more than ever.  In this project, you are to design a ticket vending site for entertainments.  To simplify the model,  the site is required to support only two kinds of entertainment:  movies and plays.  In other words, users can request either to buy a specific number of movie tickets or play tickets.  Every user goes to a kiosk to buy the tickets.
